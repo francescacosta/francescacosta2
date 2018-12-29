@@ -1,28 +1,20 @@
 ---
 template: AboutPage
 slug: about
-title: About Page
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
-subtitle: This is the about page subtitle.
+title: About
+featuredImage: ''
+subtitle: A little more about me
 section1: >-
-  ## This is a container component
+  ## Why I make these videos
 
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur
-  tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi
-  a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
-
-
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit
-  scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam
-  vel est ut proin dis auctor. Suscipit scelerisque orci magna interdum vel
-  bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
-  vestibulum.
+  Ever since I was a little girl, I had ideas that were different to other people. I started conversations that got people thinking. For most of my life, I thought that others didn't not want to share these ideas, and in a quest for truth and knowledge I started a youtube to grow a community of like minded individuals
 section2: |-
-  ## You can use videos, images and text.
+  ## Get to know me a little better
 
   <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
+  src="https://www.youtube.com/embed/94ak4CPoZSM" frameborder="0"
   allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 accordion:
   - content: >-
       Vestibulum semper egestas feugiat. Curabitur nec sagittis leo. Maecenas et
