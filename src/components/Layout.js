@@ -57,7 +57,7 @@ export default ({ children, meta, title }) => {
               titleTemplate={`%s | ${siteTitle}`}
             >
               {title}
-              <link href="https://fonts.googleapis.com/css?family=Oswald:200,400" rel="stylesheet"/>
+              <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400|Oswald:200,400" rel="stylesheet"/>
             </Helmet>
 
             <Meta
