@@ -8,12 +8,16 @@ import Layout from '../components/Layout'
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
   <main className="Home">
+
+  <a href="https://www.youtube.com/channel/UCAhrQnqRvvTyPhHWeuB3wnw?" target="_blank">
     <PageHeader
       large
       title={title}
       subtitle={subtitle}
       backgroundImage={featuredImage}
     />
+
+    </a>
 
     <section className="section">
       <div className="container">
