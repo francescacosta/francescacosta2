@@ -2,26 +2,17 @@
 template: ContactPage
 slug: contact
 title: Contact Page
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
-phone: 0987 123 456
-email: example@example.com
-locations:
-  - lat: '-27.9654732'
-    lng: '153.2432449'
-    mapLink: ''
+featuredImage: ''
+subtitle: ''
+email: francescacosta19@gmail.com
 meta:
-  description: This is a meta description.
+  description: Contact Page
   title: Contact Page
 ---
 
-# Example contact form
+# Contact Me
 
-This form is setup to use Netlify's form handling:
+If you have any questions or queries please feel free to contact me.
 
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
-
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+- I will not respond with personal advice, however I may choose to make a video replying to your question if I feel it can benefit others
+- I also often coaching, advice, and life direction discussions for a fee of $30.00. I will accept or reject your request depending on if the topic is something I believe I have experience on, and can help you with. 
