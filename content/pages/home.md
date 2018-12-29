@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
+title: ''
 featuredImage: /images/home_banner.jpg
-subtitle: Welcome to the ultimate Gatsby and Netlify starter project.
+subtitle: ''
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
@@ -27,5 +27,3 @@ View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-r
 ## Get started
 
 View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
