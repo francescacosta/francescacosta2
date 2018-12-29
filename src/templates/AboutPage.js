@@ -33,11 +33,7 @@ export const AboutPageTemplate = ({
         <Content source={section2} />
       </div>
     </section>
-    <section className="section">
-      <div className="container">
-        <Accordion items={accordion} />
-      </div>
-    </section>
+
   </main>
 )
 
