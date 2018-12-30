@@ -28,6 +28,7 @@ export const byDate = posts => {
  * @param {title} string
  * @param {contentType} string
  */
+
 export const byCategory = (posts, title, contentType) => {
   const isCategory = contentType === 'postCategories'
   const byCategory = post =>
@@ -68,13 +69,6 @@ export const BlogIndexTemplate = ({
             backgroundImage={featuredImage}
           />
 
-          {!!postCategories.length && (
-            <section className="section thin">
-              <div className="container">
-                <PostCategoriesNav enableSearch categories={postCategories} />
-              </div>
-            </section>
-          )}
 
           {!!posts.length && (
             <section className="section">
