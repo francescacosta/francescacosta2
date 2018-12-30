@@ -7,6 +7,9 @@ featuredImage: /images/sddefault.jpg
 categories:
   - category: Video Notes
   - category: ENTP
+  - category: ENFP
+  - category: INTP
+  - category: INFP
 excerpt: >-
   This video is about my experience as an Fe user and the experience of FE users in general. If you are an ENTP, this video will give you some tips for ways to live optimally with fe child. If you are watching to better understand ENTPS then I will give you some insight into how this function works for us, and how you can avoid problems with your ENTPs.
 meta:
