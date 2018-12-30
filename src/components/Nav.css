@@ -111,6 +111,10 @@
     display: flex;
   }
 
+  .Nav--GroupLinks {
+    position: inherit;
+  }
+
   .Nav--MenuButton {
     display: block !important;
     margin-left: auto;
@@ -149,7 +153,7 @@
   }
 
   .Nav .NavLink {
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: 300;
   }
 
