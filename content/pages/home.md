@@ -9,7 +9,7 @@ meta:
   title: The Ultimate Gatsby Starter
 ---
 
-## MOST RECENT VIDEO
+# MOST RECENT VIDEO
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/YHdxjiFiOK0" frameborder="0"
