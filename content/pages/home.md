@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: ''
-featuredImage: /images/home_banner.jpg
+featuredImage: /images/homebanner.jpg
 subtitle: ''
 meta:
   description: This is a meta description.
