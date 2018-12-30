@@ -6,7 +6,7 @@ featuredImage: /images/homebanner.jpg
 subtitle: ''
 meta:
   description: xnxx talks about society
-  title: Francesca Costa 
+  title: Francesca Costa | Typology
 ---
 
 # MOST RECENT VIDEO
