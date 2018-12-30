@@ -70,6 +70,10 @@
   .SinglePost--InnerContent {
     padding: 0;
   }
+
+  .SinglePost--Content {
+    margin-top: 10rem;
+  }
 }
 
 .SinglePost--Pagination {
