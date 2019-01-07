@@ -4,7 +4,7 @@ slug: contact
 title: Contact Page
 featuredImage: ''
 subtitle: ''
-email: francescacosta19@gmail.com
+email: ''
 meta:
   description: Contact Page
   title: Contact Page
