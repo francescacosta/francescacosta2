@@ -2,7 +2,7 @@
 template: SinglePost
 title: Developing Your Happiness As An ENTP
 status: Published
-date: '2018-01-07'
+date: '2019-01-07'
 featuredImage: /images/the-truth.jpg
 categories:
   - category: Video Notes
